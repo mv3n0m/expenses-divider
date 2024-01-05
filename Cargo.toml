@@ -12,3 +12,10 @@ slint = "1.0"
 
 [build-dependencies]
 slint-build = "1.0"
+
+
+[package.metadata.bundle]
+name = "Expenses Divider"
+identifier = "io.github.mv3n0m.expenses-divider"
+description = "Divides expenses allowances from the income."
+# icon = ["./icon.png", "./icon@2x.png"]
