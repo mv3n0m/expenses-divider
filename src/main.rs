@@ -1,9 +1,9 @@
 slint::include_modules!();
 
 const TAX_PERCENTAGE: f64 = 0.30;
-const EXPENSES_PERCENTAGE: f64 = 0.40;
-const INVESTMENTS_PERCENTAGE: f64 = 0.10;
-const SAVINGS_PERCENTAGE: f64 = 0.10;
+const EXPENSES_PERCENTAGE: f64 = 0.35;
+const INVESTMENTS_PERCENTAGE: f64 = 0.13;
+const SAVINGS_PERCENTAGE: f64 = 0.12;
 const EMERGENCY_PERCENTAGE: f64 = 0.10;
 
 fn main() -> Result<(), slint::PlatformError> {
